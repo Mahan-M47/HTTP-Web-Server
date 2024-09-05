@@ -2,7 +2,7 @@
 
 This project simulates the Hypertext Transfer Protocol (HTTP) using Python. HTTP is an application layer protocol that can be easily implemented using socket programming. The focus of this project is on handling HTTP GET requests and responses. Other HTTP methods and features, such as caching, can be added as needed.
 
-This repository contains two main Python scripts: `ServerMain.py` for the server and `ClientMain.py` for the client.
+This repository contains two main Python scripts: `ServerMain.py` for the server and `ClientMain.py` for the client. This project was created for my Computer Networks course in Spring 2024.
 
 ### Key Features:
 - HTTP GET request handling.
